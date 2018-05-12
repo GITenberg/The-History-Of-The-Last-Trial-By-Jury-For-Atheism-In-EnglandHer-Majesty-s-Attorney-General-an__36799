@@ -1,0 +1,32 @@
+_repo: The-History-Of-The-Last-Trial-By-Jury-For-Atheism-In-EnglandHer-Majesty-s-Attorney-General-an__36799
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Holyoake, George Jacob
+    alias: Holyoake, G. J. (George Jacob)
+    birthdate: 1817
+    deathdate: 1906
+    gutenberg_agent_id: '38479'
+    url: http://www.gutenberg.org/2009/agents/38479
+    wikipedia: http://en.wikipedia.org/wiki/George_Jacob_Holyoake
+description: ''
+gutenberg_issued: '2011-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36799'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Atheism -- England'
+- !lcsh 'Holyoake, George Jacob, 1817-1906 -- Trials, litigation, etc.'
+- !lcsh 'Trials (Blasphemy) -- England'
+- !lcc 'KD'
+title: "The History Of The Last Trial By Jury For Atheism In England\r\nA Fragment\
+  \ of Autobiography Submitted for the Perusal of Her Majesty's Attorney-General and\
+  \ the British Clergy"
+url: http://www.gutenberg.org/ebooks/36799
